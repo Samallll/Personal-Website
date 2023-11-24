@@ -105,7 +105,7 @@ function emailCheck() {
 document.getElementById("submit-form").addEventListener(
    "submit",
    function (e) {
-      e.preventDefault();
+      // e.preventDefault();
    },
    false
 );
